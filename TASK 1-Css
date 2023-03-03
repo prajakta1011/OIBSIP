@@ -18,16 +18,14 @@
     width: 330px;
     background-color: #ffffff03; 
     border-radius: 18px;  
-    font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    font-family: 'Josefin Sans', sans-serif;
     
 }
 #display{
     display: flex;
     justify-content: flex-end;
     font-size: 51px;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Josefin Sans', sans-serif;
     
 }
 table{
@@ -50,7 +48,7 @@ table{
     margin: 10px;
     font-size: 23px;
     border-radius: 20px;
-    font-family: cursive;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .btn-number{
@@ -66,7 +64,7 @@ table{
     margin: 10px;
     font-size: 23px;
     border-radius: 20px;
-    font-family: cursive;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .btn-equal{
     border: 0;
