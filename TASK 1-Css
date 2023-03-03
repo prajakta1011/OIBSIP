@@ -18,7 +18,9 @@
     width: 330px;
     background-color: #ffffff03; 
     border-radius: 18px;  
-    font-family: cursive;
+    font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
     
 }
 #display{
