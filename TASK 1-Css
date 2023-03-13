@@ -95,6 +95,6 @@ body {
 h1{
     font-family: cursive;
 }
-a[href = 'https://www.linkedin.com/in/']{
-    color: white;
+a[href = 'https://www.linkedin.com/in/prajakta-desai-16890621b/']{
+    color: blue;
 }
