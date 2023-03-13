@@ -78,7 +78,7 @@ table{
     margin: 10px;
     font-size: 23px;
     border-radius: 20px;
-    font-family: cursive;
+    font-family: 'Josefin Sans', sans-seri;
 }
 
 .footer{
@@ -95,6 +95,6 @@ body {
 h1{
     font-family: cursive;
 }
-a[href = 'https://www.linkedin.com/in/ved-chawda-574b19224/']{
+a[href = 'https://www.linkedin.com/in/']{
     color: white;
 }
